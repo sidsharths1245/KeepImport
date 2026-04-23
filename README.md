@@ -1,6 +1,3 @@
-# KeepImport
-A python script to import notes from one keep account to another
-
 # Google Keep Takeout Importer
 
 A robust Python script to import notes from a Google Keep Takeout export (`.json` files) into a new Google Keep account. 
